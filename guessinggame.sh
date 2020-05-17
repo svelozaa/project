@@ -1,5 +1,5 @@
 numero_files=$(find . -maxdepth 1 -type f | wc -l)
-funtion guess {
+function guess {
 echo -n "Number of files"
 read numero_usuario
 while [ $numero_usuario -ne $numero_files ];
