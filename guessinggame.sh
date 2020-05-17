@@ -17,5 +17,5 @@ done
 echo "Congratulations!"
 echo "$numero_usuario, is the answer"
 }
-echo "Welcome, you have to guess de number o files"
+echo "Welcome, you have to guess de number of files"
 guess
